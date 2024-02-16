@@ -3,7 +3,3 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P3DQUDH)
 
-
-
-
-![Column 4](https://github.com/crizzhd1/crizzhd1/assets/61610761/f3cb2990-0dd0-443c-bc5b-73dc1d336aa3)
