@@ -3,10 +3,8 @@
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crizzhd1&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-   <img src="[https://github-readme-stats.vercel.app/api?username=crizzhd1&theme=dracula&show_icons=true&hide_border=true&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=crizzhd1&theme=dracula&hide_border=true)" />
- 
+  <img src="[https://github-readme-stats.vercel.app/api?username=crizzhd1&theme=dracula&show_icons=true&hide_border=true&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=crizzhd1&theme=dracula&hide_border=true)" />
 
-![crizzhd1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=crizzhd1&theme=dracula&hide_border=true)
 </div>
 
 ###
