@@ -2,10 +2,10 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crizzhd1&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-
   
- ![crizzhd1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=crizzhd1&theme=vue-dark&hide_border=true)
+  ![crizzhd1's Stats](https://github-readme-stats.vercel.app/api?username=crizzhd1&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+  
+  ![crizzhd1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=crizzhd1&theme=dracula&hide_border=true)
 </div>
 
 ###
