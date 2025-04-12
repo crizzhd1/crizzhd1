@@ -40,6 +40,6 @@
   </a>
 </div>
 
-<h2>contact@crizzhd.net</h2>
+<h2> Contact me at: contact@crizzhd.net</h2>
 
 ###
