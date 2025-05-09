@@ -4,7 +4,6 @@
 <div align="center">
   
   ![crizzhd1's Stats](https://github-readme-stats.vercel.app/api?username=crizzhd1&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-  
 
 </div>
 
