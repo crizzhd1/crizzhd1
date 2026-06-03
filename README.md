@@ -28,8 +28,7 @@
 </div>
 
 ###
-
-github: crizzhd1
+github: [crizzhd1]
 
 <h2 align="center"> Contact me at: contact@crizzhd.net</h2>
 
