@@ -28,5 +28,7 @@
 </div>
 
 ###
+
 <h2 align="center"> Contact me at: contact@crizzhd.net</h2>
+
 ###
