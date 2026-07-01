@@ -3,7 +3,7 @@
 
 <div align="center">
 
- Game Dev | C# | Unity / Godot | Modding
+ Game Dev | C# | Unity | Godot | Modding
   
   ![GitHub Stats Card](https://ghstats.dev/api/card?username=crizzhd1&theme=ocean)
   
